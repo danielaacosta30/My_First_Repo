@@ -1,0 +1,54 @@
+nav {
+    height: 50px;
+    background-color: darkseagreen;
+  }
+  .inline-block {
+    padding: 15px;
+    display: inline-block;
+    background-color: darkslategrey;
+    color: white;
+  }
+  .left {
+    float: left;
+    height: 500px;
+    background-color: darkseagreen;
+    width: 29%;
+    text-align: center;
+  }
+  
+  .right {
+    float: left;
+    background-color: darkslategrey;
+    height: 500px;
+    width: 70%;
+    text-align: center;
+  }
+
+  .lower {
+    background-color: darkseagreen;
+    text-align: left;
+    padding-left: 30px;
+  }
+
+  .upper {
+    background-color: darkslategrey;
+    height: 150px;
+    color: white;
+    padding: 25px;
+    text-align: left;
+  }
+
+  .lower2 {
+    background-color: darkslategrey;
+    color: white;
+  }
+  
+  .card {
+    display: inline-block;
+    background-color: #C6C6C6;
+    border-radius: 5px;
+    height: 200px;
+    width: 300px;
+    margin: 20px;
+    margin-top: 20px;
+  }
